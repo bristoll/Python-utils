@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
 # Perceptron Algorithm on the Sonar Dataset
 from random import seed
 from random import randrange
